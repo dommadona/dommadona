@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic Madona</h1>
 <h3 align="center">A passionate Data Analyst from Dallas, TX</h3>
 
-- 🌱 I’m currently learning **MySQL, Tableau, PowerBI**
+- 🌱 I’m proficient with **MySQL, PowerBI, Excel, Google App Script, and Tableau**
 
 - 👯 I’m looking to collaborate on **MySQL Projects**
 
