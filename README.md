@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominic Madona</h1>
 <h3 align="center">A passionate Data Analyst from Dallas, TX</h3>
 
-- 🌱 I’m proficient with **MySQL, PowerBI, Excel, Google App Script, and Tableau**
+- 🌱 I’m proficient with **SQL, PowerBI, Excel, Google App Script, and Tableau**
 
-- 👯 I’m looking to collaborate on **MySQL Projects**
+- 👯 I’m looking to collaborate on **SQL Projects**
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@dominicmadona7_10109](https://medium.com/@dominicmadona7_10109)
 
